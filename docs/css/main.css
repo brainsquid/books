@@ -194,7 +194,7 @@ tbody tr:hover {
 
 .column1 {
   width: 40%;
-  padding-left: 5%;
+  padding-left: 3.5%;
 }
 
 .column2 {
@@ -202,19 +202,19 @@ tbody tr:hover {
 }
 
 .column3 {
-  width: 7.5%;
+  width: 6%;
   text-align: center;
 }
 
 .column4 {
-  width: 7.5%;
+  width: 6%;
   text-align: center;
-  padding-right: 5%;
 }
 
 .column5 {
-  width: 170px;
-  text-align: right;
+  width: 6%;
+  text-align: center;
+  padding-right: 3.5%;
 }
 
 .column6 {
