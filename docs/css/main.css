@@ -193,21 +193,21 @@ tbody tr:hover {
 }
 
 .column1 {
-  width: 260px;
+  width: 50%;
   padding-left: 40px;
 }
 
 .column2 {
-  width: 160px;
+  width: 40%;
 }
 
 .column3 {
-  width: 60px;
+  width: 5%;
   text-align: center;
 }
 
 .column4 {
-  width: 60px;
+  width: 5%;
   text-align: center;
   padding-right: 62px;
 }
