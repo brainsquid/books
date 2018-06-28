@@ -194,35 +194,28 @@ tbody tr:hover {
 
 .column1 {
   width: 40%;
-  padding-left: 3.5%;
+  padding-left: 4.5%;
 }
 
 .column2 {
-  width: 35%;
+  width: 30%;
 }
 
 .column3 {
-  width: 6%;
+  width: 7%;
   text-align: center;
 }
 
 .column4 {
-  width: 6%;
+  width: 7%;
   text-align: center;
 }
 
 .column5 {
-  width: 6%;
+  width: 7%;
   text-align: center;
-  padding-right: 3.5%;
+  padding-right: 4.5%;
 }
-
-.column6 {
-  width: 222px;
-  text-align: right;
-  padding-right: 62px;
-}
-
 
 @media screen and (max-width: 992px) {
   table {
