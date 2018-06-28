@@ -193,23 +193,23 @@ tbody tr:hover {
 }
 
 .column1 {
-  width: 50%;
-  padding-left: 40px;
+  width: 40%;
+  padding-left: 5%;
 }
 
 .column2 {
-  width: 40%;
+  width: 35%;
 }
 
 .column3 {
-  width: 5%;
+  width: 7.5%;
   text-align: center;
 }
 
 .column4 {
-  width: 5%;
+  width: 7.5%;
   text-align: center;
-  padding-right: 62px;
+  padding-right: 5%;
 }
 
 .column5 {
